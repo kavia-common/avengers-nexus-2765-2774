@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/avengers-nexus-2765-2774/frontend_next_js"
+}
